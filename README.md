@@ -168,9 +168,9 @@ ahorraya/
 
 📸 Capturas de tu aplicación:
 
-![Login](./public/img/loginn.PNG)
-![Inicio](./public/img/inicio.PNG)
-![Gastos](./public/img/gastos.PNG)
+![Login](./front/public/img/loginn.PNG)
+![Inicio](./front/public/img/inicio.PNG)
+![Gastos](./front/public/img/gastos.PNG)
 
 ---
 
