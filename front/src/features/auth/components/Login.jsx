@@ -14,7 +14,7 @@ function Login() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
-  const API = "http://127.0.0.1:3000/api/auth";
+  const API = "https://taller4-793d.onrender.com/api/auth";
 
   const handleSubmit = async (e) => {
     e.preventDefault();
