@@ -101,7 +101,8 @@ http://localhost:5173
 
 ## 🏗️ Arquitectura del proyecto
 
-```bash
+```
+bash
 ahorraya/
 │
 ├── backend/
@@ -163,6 +164,7 @@ ahorraya/
 └── vite.config.js
 
 ---
+```
 
 ## 🖼️ Interfaz gráfica
 
