@@ -101,8 +101,7 @@ http://localhost:5173
 
 ## 🏗️ Arquitectura del proyecto
 
-```
-bash
+```bash
 ahorraya/
 │
 ├── backend/
@@ -114,54 +113,55 @@ ahorraya/
 │   ├── package.json
 │   └── package-lock.json
 │
-├── node_modules/
-│
-├── public/
-│   └── img/
-│       ├── gastos.PNG
-│       ├── icon.png
-│       ├── inicio.PNG
-│       ├── login.PNG
-│       ├── pwa-convertido-a-192x192.jpeg
-│       └── pwa.png
-│
-├── src/
-│   ├── features/
-│   │   ├── api/
-│   │   │   └── components/
-│   │   │       ├── ApiRyC_Axios.jsx
-│   │   │       └── ApiRyC.jsx
-│   │   │
-│   │   ├── auth/
-│   │   │   └── components/
-│   │   │       ├── Login.jsx
-│   │   │       └── Register.jsx
-│   │   │
-│   │   ├── layout/
-│   │   │   └── components/
-│   │   │       ├── Content.jsx
-│   │   │       ├── Footer.jsx
-│   │   │       └── Header.jsx
-│   │   │
-│   │   └── views/
-│   │       ├── Acerca.jsx
-│   │       ├── Estadisticas.jsx
-│   │       ├── Gastos.jsx
-│   │       ├── Home.jsx
-│   │       └── Metas.jsx
+├── front/
+│   ├── node_modules/
+│   ├── public/
+│   │   └── img/
+│   │       ├── gastos.PNG
+│   │       ├── icon.png
+│   │       ├── inicio.PNG
+│   │       ├── login.PNG
+│   │       ├── pwa-convertido-a-192x192.jpeg
+│   │       └── pwa.png
+│   │
+│   ├── src/
+│   │   ├── features/
+│   │   │   ├── api/
+│   │   │   │   └── components/
+│   │   │   │       ├── ApiRyC_Axios.jsx
+│   │   │   │       └── ApiRyC.jsx
+│   │   │   │
+│   │   │   ├── auth/
+│   │   │   │   └── components/
+│   │   │   │       ├── Login.jsx
+│   │   │   │       └── Register.jsx
+│   │   │   │
+│   │   │   ├── layout/
+│   │   │   │   └── components/
+│   │   │   │       ├── Content.jsx
+│   │   │   │       ├── Footer.jsx
+│   │   │   │       └── Header.jsx
+│   │   │   │
+│   │   │   └── views/
+│   │   │       ├── Acerca.jsx
+│   │   │       ├── Estadisticas.jsx
+│   │   │       ├── Gastos.jsx
+│   │   │       ├── Home.jsx
+│   │   │       └── Metas.jsx
 │   │
 │   ├── App.jsx
 │   ├── main.jsx
-│   └── Routes.jsx
+│   ├── Routes.jsx
+│   ├── eslint.config.js
+│   ├── index.css
+│   ├── index.html
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── vercel.json
+│   └── vite.config.js
 │
 ├── .gitignore
-├── eslint.config.js
-├── index.css
-├── index.html
-├── package.json
-├── package-lock.json
 ├── README.md
-└── vite.config.js
 
 ---
 ```
