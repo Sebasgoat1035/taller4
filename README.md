@@ -102,7 +102,7 @@ http://localhost:5173
 ## 🏗️ Arquitectura del proyecto
 
 ```bash
-ahorraya/
+t4_proyect/
 │
 ├── backend/
 │   ├── models/
