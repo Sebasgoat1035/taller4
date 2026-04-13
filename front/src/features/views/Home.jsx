@@ -57,7 +57,7 @@ function Home() {
 
               <Button
                 variant="outlined"
-                onClick={() => window.open("https://github.com/Sebasgoat1035", "_blank")}
+                onClick={() => window.open("https://github.com/Sebasgoat1035/taller4", "_blank")}
                 sx={{
                   color: "white",
                   borderColor: "white",
